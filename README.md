@@ -126,9 +126,14 @@ void jalankanKalkulator() {
     }
 }
 
+
+
 int main() {
     printf("Kalkulator Sederhana\n");
     jalankanKalkulator();
     return 0;
 }
 ```
+
+DOKUMENTASI
+
